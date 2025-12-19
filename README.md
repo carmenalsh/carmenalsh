@@ -6,7 +6,7 @@
 
 ###
 
-![Custom Size – 1](https://drive.google.com/file/d/1SMNTGjCTgTI7U5dnJw5dhERd1YZKNjNw/view?usp=drive_link)
+![Custom Size – 1](https://drive.google.com/uc?id=1SMNTGjCTgTI7U5dnJw5dhERd1YZKNjNw)
 
 ###
 
