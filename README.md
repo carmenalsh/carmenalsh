@@ -6,7 +6,7 @@
 
 ###
 
-![Custom Size – 1](https://drive.google.com/uc?id=1SMNTGjCTgTI7U5dnJw5dhERd1YZKNjNw)
+![Custom Size – 1](Custom%20Size%20–%202.jpg)
 
 ###
 
