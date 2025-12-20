@@ -61,31 +61,11 @@
 ###
 
 <div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/phpstorm/phpstorm-original.svg" height="30" />
-  <img width="13" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg" height="30" />
-  <img width="13" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/webstorm/webstorm-original.svg" height="30" />
   <img width="13" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" height="30" />
   <img width="13" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="30" />
-</div>
-
-###
-
-<h4 align="left">›› Design tools</h4>
-
-###
-
-<div align="left">
-  <img src="https://skillicons.dev/icons?i=xd" height="30" />
-  <img width="13" />
-  <img src="https://skillicons.dev/icons?i=ps" height="30" />
-  <img width="13" />
-  <img src="https://skillicons.dev/icons?i=ae" height="30" />
-  <img width="13" />
-  <img src="https://skillicons.dev/icons?i=ai" height="30" />
 </div>
 
 ###
@@ -99,15 +79,10 @@
   <img width="13" />
   <img src="https://skillicons.dev/icons?i=github" height="30" />
   <img width="13" />
-  <img src="https://skillicons.dev/icons?i=gitlab" height="30" />
-  <img width="13" />
   <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" width="30" height="30"/>
   <img width="13" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="30" height="30"/>
   <img width="13" />
-  <img src="https://skillicons.dev/icons?i=docker" height="30" />
-  <img width="13" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jira/jira-original.svg" height="30" />
 </div>
 
 ###
@@ -116,7 +91,7 @@
 
 ###
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=carmenalsh&layout=compact)
 
 ###
 
@@ -124,15 +99,15 @@
 
 ###
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=dark)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=carmenalsh&show_icons=true&theme=dark)
 
 ###
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=YOUR_GITHUB_USERNAME&theme=dark&border_radius=5)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=carmenalsh&theme=dark&border_radius=5)](https://git.io/streak-stats)
 
 ###
 
-[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=YOUR_GITHUB_USERNAME&theme=xcode)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=carmenalsh&theme=xcode)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 ###
 
